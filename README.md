@@ -1,6 +1,10 @@
 ## Cloud media manager for django
 
+Support for aliyun OSS, Tencent COS, Huawei OBS 
+
 ### Install
+
+add `settings.py`:
 
 ```py
 INSTALLED_APPS = [
@@ -13,6 +17,8 @@ INSTALLED_APPS = [
 ### Usage
 
 **Configure**
+
+add `settings.py`:
 
 ```python
 # set the default cloud object storage
