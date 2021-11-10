@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-08 16:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: cloudmedia/admin.py:11
+msgid "Media info"
+msgstr "媒体信息"
+
+#: cloudmedia/admin.py:15
+msgid "Important dates"
+msgstr "日期"
+
+#: cloudmedia/admin.py:21
+msgid "file name"
+msgstr "文件名"
+
+#: cloudmedia/admin.py:25
+msgid "preview"
+msgstr "预览"
+
+#: cloudmedia/admin.py:32
+msgid "thumbnail"
+msgstr "缩略图"
+
+#: cloudmedia/admin.py:39
+msgid "size"
+msgstr "文件大小"
+
+#: cloudmedia/apps.py:8
+msgid "Cloud Media"
+msgstr "云媒体库"
+
+#: cloudmedia/models.py:8
+msgid "name"
+msgstr "名称"
+
+#: cloudmedia/models.py:9 cloudmedia/models.py:43
+msgid "caption"
+msgstr "标题"
+
+#: cloudmedia/models.py:10 cloudmedia/models.py:47
+msgid "description"
+msgstr "描述"
+
+#: cloudmedia/models.py:11
+msgid "creator"
+msgstr "创建者"
+
+#: cloudmedia/models.py:12 cloudmedia/models.py:50
+msgid "created at"
+msgstr "创建日期"
+
+#: cloudmedia/models.py:13 cloudmedia/models.py:51
+msgid "updated at"
+msgstr "更新日期"
+
+#: cloudmedia/models.py:19 cloudmedia/models.py:20
+msgid "Media Group"
+msgstr "媒体分组"
+
+#: cloudmedia/models.py:33
+msgid "image"
+msgstr "图片"
+
+#: cloudmedia/models.py:34
+msgid "video"
+msgstr "视频"
+
+#: cloudmedia/models.py:35
+msgid "audio"
+msgstr "音频"
+
+#: cloudmedia/models.py:36
+msgid "doc"
+msgstr "文档"
+
+#: cloudmedia/models.py:37
+msgid "pdf"
+msgstr "PDF"
+
+#: cloudmedia/models.py:38
+msgid "archive"
+msgstr "压缩包"
+
+#: cloudmedia/models.py:39
+msgid "other"
+msgstr "其他"
+
+#: cloudmedia/models.py:42
+msgid "title"
+msgstr "名称"
+
+#: cloudmedia/models.py:44
+msgid "file"
+msgstr "文件"
+
+#: cloudmedia/models.py:45
+msgid "uploader"
+msgstr "上传者"
+
+#: cloudmedia/models.py:46
+msgid "media group"
+msgstr "媒体组"
+
+#: cloudmedia/models.py:48
+msgid "file format"
+msgstr "文件格式"
+
+#: cloudmedia/models.py:49
+msgid "file type"
+msgstr "文件类型"
+
+#: cloudmedia/models.py:54 cloudmedia/models.py:55
+msgid "Media"
+msgstr "媒体"
