@@ -1,8 +1,20 @@
 ## Cloud media manager for django
 
+![pypi](https://img.shields.io/pypi/v/django-cloudmedia?style=flat-square)
+![python](https://img.shields.io/pypi/pyversions/django-cloudmedia?style=flat-square)
+![wheel](https://img.shields.io/pypi/wheel/django-cloudmedia?style=flat-square)
+![l](https://img.shields.io/pypi/l/django-cloudmedia?style=flat-square)
+![](https://img.shields.io/pypi/djversions/django-cloudmedia?style=flat-square)
+[![Maintainability](https://api.codeclimate.com/v1/badges/031dbadae356adf0f2d0/maintainability)](https://codeclimate.com/github/twn39/django-cloudmedia/maintainability)
+
+
 Support for aliyun OSS, Tencent COS, Huawei OBS 
 
 ### Install
+
+```shell
+pip install django-cloudmedia
+```
 
 add `settings.py`:
 
